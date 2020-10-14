@@ -1,9 +1,6 @@
 la la la
 lo lo lo
-
 li li li
 lu lu lu
-
 le le le
 ly ly ly
--------------------
